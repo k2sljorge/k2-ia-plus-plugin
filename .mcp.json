@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "k2-ia-plus": {
+      "type": "http",
+      "url": "https://iaplus.k2sl.com/mcp"
+    }
+  }
+}

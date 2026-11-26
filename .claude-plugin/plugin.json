@@ -1,0 +1,8 @@
+{
+  "name": "k2-ia-plus",
+  "version": "1.0.0",
+  "description": "Asistente plus de IA de K2 para Sage 200: pregunta en lenguaje natural por los datos de tu empresa y guarda informes en K2 BI.",
+  "author": { "name": "K2 Software Leader", "url": "https://k2sl.com" },
+  "homepage": "https://k2sl.com/ayuda/",
+  "license": "MIT"
+}
